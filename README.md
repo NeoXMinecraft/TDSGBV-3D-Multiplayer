@@ -22,8 +22,6 @@ I started working on TDSGBV(v1.0) (251320123) on a new engine in September 2018.
 
 
 ▶▶ Original Scratch Description:
-
-  View project on Scratch
 	
   Instructions
 	
@@ -43,7 +41,9 @@ I started working on TDSGBV(v1.0) (251320123) on a new engine in September 2018.
   
   ▶ Forum topic (Modding tutorial / Changelog)
   https://scratch.mit.edu/discuss/topic/471464/
+  
   Notes and Credits
+  
   ▶ DESCRIPTION:
   TDSGBV 3D - is a 3D multiplayer survival game, where your goal is to collect resources, build a base and survive for as many in-game days as you can. At night   you will be attacked by different types of enemies. Each night their amount and variety increases. You can only respawn, if you craft and place a bed, but be   careful, because enemies will try to destroy it too. To help you protect it there are turrets and other traps which you can make and place.
   
